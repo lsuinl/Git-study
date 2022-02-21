@@ -1,4 +1,4 @@
-# 2주차
+# 깃허브 2주차
 <strong>숨기기</strong>
 
 - vim .gitignore (숨기고 싶은 파일 또는 폴더 이름을 .suin처럼 gitignore폴더 안에 기입해두면 그 파일이나 폴더가 사라짐)
